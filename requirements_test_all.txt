@@ -236,7 +236,7 @@ herepy==0.6.3.1
 hole==0.5.0
 
 # homeassistant.components.workday
-holidays==0.9.11
+holidays==0.45
 
 # homeassistant.components.frontend
 home-assistant-frontend==20191014.0
